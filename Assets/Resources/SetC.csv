@@ -1,0 +1,11 @@
+Question_ID,Questions,Option1 ,Option2,Option3,Option4,Option5
+1B,Find the term 'bodily process'.  Does it fall under the parent term 'immunization' ? ,Yes,No,N/A,N/A,N/A
+2B,What is the parent for the term 'coronaviral process to host' ?,pathological bodily process,bodily process,process,N/A,N/A
+3B,What is the parent for the term 'COVID-19 disease process' ?,pathological bodily process,bodily process,process,N/A,N/A
+4B,What is the parent for the term 'diagnostic process' ?,pathological bodily process,bodily process,process,N/A,N/A
+5B,What is the child term for 'pathological bodily process'? ,disorder treatment,bodily process,cellular process,severe COVID-19 disease process,cell motility
+6B,"Do the following terms share a common parent? (A) 'COVID-19 diagnostic process by chest imaging' , (B) 'COVID-19 diagnostic process based on symptoms'",Yes,No,N/A,N/A,N/A
+7B,How many number of parents does the node: 'coronaviral disease epidemic' have?,1,2,4,6,8
+8B,Find the term 'coronavirus transmission'.  Does it fall under the parent term 'transmission process' ? ,Yes,No,N/A,N/A,N/A
+9B,Which one is the root node (topmost node)  for 'coronaviral disease epidemic' ?,cell motility,occurrent,transmission process,owl:Thing,N/A
+10B,Is 'COVID-19 diagnostic process by ELISA serological assay' a leaf? ,Yes,No,N/A,N/A,N/A

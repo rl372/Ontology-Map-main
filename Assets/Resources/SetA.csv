@@ -1,0 +1,21 @@
+Question_ID,Questions,Option1 ,Option2,Option3,Option4,Option5
+1A,Find the term 'coronaviral process to host'. Does it fall under the parent term 'bodily process' ?,Yes,No,N/A,N/A,N/A
+2A,What is the parent for the term 'cell-cell signaling' ?,biological_process,cell motility,cellular process,N/A,N/A
+3A,What is the parent for the term 'cell growth' ?,biological_process,cell motility,cellular process,N/A,N/A
+4A,What is the parent for the term 'cell migration' ?,biological_process,cell motility,cellular process,N/A,N/A
+5A,What is the child term for 'transmission process'?,immune response,coronavirus shedding,horizontal pathogen transmission process,self-replication,occurrent
+6A,What is the grandparent for the term 'vaccine immunization'?,process profile,life cycle stage,immunization,immunization against infectious agent,process
+7A,What is the parent term for 'coronaviral disease pandemic',coronaviral disease epidemic,coronavirus transmission,infectious disease pandemic,immunization,biological_process
+8A,"Do the following terms share a common parent? (A) 'modification of adaptive immune response to antigen', (B) 'induction of adaptive immune response to antigen'",Yes,No,N/A,N/A,N/A
+9A,How many stages are present immediately under the term 'coronavirus life cycle stage' ?,1,2,4,6,8
+10A,Which one is the root node (topmost node)  for 'COVID-19 diagnostic process' ?,cell motility,owl:Thing,transmission process,occurrent,N/A
+11A,Is 'COVID-19 diagnostic process using real time RT-PCR' a leaf?  (A leaf is a node which has no child),Yes,No,N/A,N/A,N/A
+12A,Find the term 'coronavirus life cycle stage'.  Does it fall under the parent term 'coronavirus shedding' ? ,Yes,No,N/A,N/A,N/A
+13A,What is the grandparent for the term 'severe COVID-19 disease process' ?,appearance of disorder,disease course,immunization,bodily process,owl:Thing
+14A,What is the child term for 'host-SARS-CoV-2 interaction'?,MERS diagnostic process,host response to SARS-CoV-2,self-replication,host-MERS-CoV interaction,transmission process
+15A,Which one is the root node (topmost node)  for 'viral life cycle stage' ?,cell motility,owl:Thing,transmission process,occurrent,N/A
+16A,How many stages are present immediately under the term 'life cycle stage' ?,1,2,3,4,5
+17A,What is the parent term for 'adverse event'?,pathological bodily process,life cycle,coronaviral process to host,appearance of disorder,COVID-19 disease process
+18A,"Do the following terms share a common parent? (A) 'COVID-19 disease process', (B) 'severe COVID-19 disease process'",Yes,No,N/A,N/A,N/A
+19A,What is the grandparent for the term 'SARS-CoV-2 life cycle'?,coronavirus life cycle,occurrent,viral life cycle,transmission process,vaccine-induced host response
+20A,Is 'host-coronavirus interaction' a leaf?  (A leaf is a node which has no child),Yes,No,N/A,N/A,N/A

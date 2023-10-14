@@ -1,0 +1,11 @@
+Question_ID,Questions,Option1 ,Option2,Option3,Option4,Option5,Answers
+1B, Find the term 'bodily process'.  Does it fall under the parent term 'immunization' ? ,Yes,No,N/A,N/A,N/A,No
+2B, What is the parent for the term 'COVID-19 treatment' ?,pathological bodily process,treatment,process,N/A,N/A,treatment
+3B, What is the parent for the term 'COVID-19 disease process' ?,pathological bodily process,treatment,process,N/A,N/A,pathological bodily process
+4B, What is the parent for the term 'diagnostic process' ?,pathological bodily process,treatment,process,N/A,N/A,process
+5B, What is the child term for 'pathological bodily process'? ,disorder treatment,bodily process,cellular process,severe COVID-19 disease process,cell motility,severe COVID-19 disease process
+6B, What is the grandparent for the term 'acute infectious disease course'?,coronaviral process to host,disease course,host-MERS-CoV interaction,infectious disease course,reproduction,disease course
+7B, Which one is the root node (topmost node)  for 'coronaviral disease epidemic' ?,cell motility,occurrent,transmission process,owl:Thing,N/A,owl:Thing
+8B, Do the following terms share a common parent? (A) 'horizontal pathogen transmission process'(B) 'transmission process',Yes,No,N/A,N/A,N/A,No
+9B, What is the child for the term 'coronavirus disease diagnostic process'?,SARS diagnostic process,disorder treatment,chronic infectious disease course,immune response,disease course,SARS diagnostic process
+10B, Is ''chronic infectious disease course' a leaf?  (A leaf is a node which has no child),Yes,No,N/A,N/A,N/A,No

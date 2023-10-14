@@ -1,0 +1,315 @@
+Class ID,Preferred Label,Synonyms,Definitions,Parents
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#SpectralRadiance,SpectralRadiance,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Radiance
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#Standard,Standard,,"A standard defines a reference for comparing or naming entities via a measurement. A standard can be defined intentionally (e.g., as in the case of units) or extensionally (by listing the values of the standard, e.g., for color this might be red, blue, yellow, etc).",http://www.w3.org/2002/07/owl#Thing
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NumberPerMeterSquared,NumberPerMeterSquared,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#BushelToLiter,BushelToLiter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#AngstromToMeter,AngstromToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#HectogramToKilogram,HectogramToKilogram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NominalWeek,NominalWeek,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Pint,Pint,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Pound,Pound,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#DecigramToKilogram,DecigramToKilogram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#VolumetricRate,VolumetricRate,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Angstrom,Angstrom,,The angstrom is a unit of length equal to 0.1 nanometre.,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NominalMinute,NominalMinute,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Radiance,Radiance,,"Radiance and spectral radiance are radiometric measures that describe the amount of light that passes through or is emitted from a particular area, and falls within a given solid angle in a specified direction. They are used to characterize both emission from diffuse sources and reflection from diffuse surfaces. The SI unit of radiance is watts per steradian per square metre (W·sr−1·m−2).",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Conductivity,Conductivity,,is a measure of a material's ability to conduct an electric current. Units are siemens per meter,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#PracticalSalinityUnit,Practical Salinity Unit,,"At the simplest level, salinity is the total amount of dissolved material in grams in one kilogram of sea water. So it is typically thought of as a dimensionless quantity with no units.  It is described here as an Index. For more information, see current physical oceanographic references, such as http://oceanworld.tamu.edu/resources/ocng_textbook/chapter06/chapter06_01.htm",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#Index
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Volume,Volume,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Dekameter,Dekameter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MinuteToSecond,MinuteToSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Identifier,Identifier,,provides an identifying sequence of characters to refer to an entity within a context. An Identifier can be unique within a local context or a global context.,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#IdentifyingCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Decibar,Decibar,,A decibar is a unit pressure commonly used in oceanography because it's value is generally equivalent to depth in meters.  1 dbar = 0.1 bar = 10 kPa,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Fathom,Fathom,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#Protocol,Protocol,,A protocol is a procedure for generating or processing data.,http://www.w3.org/2002/07/owl#Thing
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#FahrenheitDegree,FahrenheitDegree,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MilligramPerMeterCubedPerDay,MilligramPerMeterCubedPerDay,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#CentimeterCubed,CentimeterCubed,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Area,Area,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#FootSquared,FootSquared,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Megahertz,Megahertz,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Kelvin,Kelvin,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MileToMeter,MileToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#YardIndian,YardIndian,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#QuartToLiter,QuartToLiter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Second,Second,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#CentimeterSquared,CentimeterSquared,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Gram,Gram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeCharacteristicQualifier,Composite Characteristic Qualifier,,"A composite qualifier combines multiple qualifiers. Each composite qualifier has a base qualifier and a reference to another qualifier. Composite qualifiers are ordered (through hasNextQualifier) to distinguish between the scope of qualifiers, e.g., AverageMinimum versus MinimumAverage.",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CharacteristicQualifier
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#AmountOfSubstanceMass,AmountOfSubstanceMass,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#ArealMassDensity,ArealMassDensity,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Microsecond,Microsecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#AmountOfSubstanceWeightFlux,AmountOfSubstanceWeightFlux,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Resistance,Resistance,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MilligramPerMeterCubed,MilligramPerMeterCubed,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#KilosecondToSecond,KilosecondToSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#VolumetricDensity,VolumetricDensity,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#CatalyticActivity,CatalyticActivity,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#Characteristic,Characteristic,,"A characteristic represents a property of an entity that can be measured (e.g., height, length, or color).  A characteristic of an entity is observed through a measurement, which further asserts a value of the characteristic for the entity. A characteristic type (e.g., ""height"") can be associated with many different entities, whereas an individual characteristic (a particular occurrence of the ""height"" characteristic) is associated to exactly one entity.",http://www.w3.org/2002/07/owl#Thing
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MolePerLiter,MolePerLiter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Megasecond,Megasecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MeterSquared,MeterSquared,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NominalLeapYearToSecond,NominalLeapYearToSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Mole,Mole,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Charge,Charge,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit,Derived Unit,,"A derived unit raises a base or prefixed unit to an integer power other than 0 or 1. For example, the unit 'square meter' is a unit derived from the 'meter' base unit raised to the power 2. As another example, a 'square centimeter' is a unit derived from the 'centimeter' prefixed unit raised to the power 2.
+
+BRL 20160601: I removed this restriction so that CompositeUnits like XXXPerLiter would not reason to owl:Nothing. hasUnit exactly 1 (BaseUnit or PrefixedUnit)",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#Unit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#SpecificVolume,SpecificVolume,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Candela,Candela,,"The candela is the SI base unit of luminous intensity, i.e., the power emitted by a light source in a particular direction, weighted by the luminosity function (a standardized model of the sensitivity of the human eye to different wavelengths).",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NauticalMile,NauticalMile,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#HectometerToMeter,HectometerToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#CelsiusToKelvin,CelsiusToKelvin,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MilliliterPerLIter,MilliliterPerLIter,,A unit of concentration used for liquid-liquid solutions or for mixtures of gasses and of gasses and liquids.,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#MagneticFlux,MagneticFlux,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#SpecificEnergy,SpecificEnergy,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Number,Number,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CategoricalStandard,CategoricalStandard,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#Standard
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#DecimeterToMeter,DecimeterToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MicrometerSquared,MicrometerSquared,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Degree,Degree,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Milligram,Milligram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#PhotonFluxDensity,PhotonFluxDensity,,The number of photons striking an area per unit time.  This could be probably also be called a PhotonArealDensityRate.,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#MassDensity,MassDensity,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic,Measured Characteristic,,"A measured characteristic of an entity is one that is measurable within the physical world. A measured characteristic includes primary and derived physical dimensions (e.g., length, mass, area, density). The measured value assigned to a measured characteristic may be a quantity (a numerical value) or a quality (a category), including both nominal and ordinal categories.",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#Characteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#Index,Index,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#Standard
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Luminance,Luminance,,"Luminance is a photometric measure of the luminous intensity per unit area of light  travelling in a given direction. It describes the amount of light that passes through or is emitted from a particular area, and falls within a given solid angle. The SI unit for luminance is candela per square metre (cd/m2).",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Becquerel,Becquerel,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Radian,Radian,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Foot,Foot,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#InchCubed,InchCubed,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseCharacteristicQualifier,Base Characteristic Qualifier,,"A base qualifier denotes a simple, atomic qualifier such as average, minimum, and maximum.",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CharacteristicQualifier
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NominalLeapYear,NominalLeapYear,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Illuminance,Illuminance,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#SpecificArea,SpecificArea,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NominalDayToSecond,NominalDayToSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NominalDay,NominalDay,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#CentimeterToMeter,CentimeterToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Milliliter,Milliliter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Luminosity,Luminosity,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MicrogramToKilogram,MicrogramToKilogram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#VolumetricMassDensityRate,VolumetricMassDensityRate,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#TonneToKilogram,TonneToKilogram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#YardSquared,YardSquared,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Newton,Newton,,"The newton is the unit of force derived in the SI system; it is equal to the amount of net force required to accelerate a mass of one kilogram at a rate of one meter per second per second. 
+1 N = kg  m  s-2",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Force,Force,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#AmountOfSubstanceConcentration,AmountOfSubstanceConcentration,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Micron,Micron,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Siemens,Siemens,,"The siemens (symbol: S) is the SI derived unit of electric conductance and electric admittance. Conductance and admittance are the reciprocals of resistance and impedance respectively, hence one siemens is equal to the reciprocal of one ohm, and is sometimes referred to as the mho. It is named after the German inventor and industrialist Ernst Werner von Siemens. In English, the term siemens is used both for the singular and plural. The 14th General Conference on Weights and Measures approved the addition of the siemens as an SI derived unit in 1971.
+
+It is a composite unit in OBOE because it is composed of 2 base units, and OBOE-derived units are a single base unit raised to a power.
+
+a siemens is Ampere/volt",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#WattPerMeterSquaredPerSteradian,WattPerMeterSquaredPerSteradian,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#KilogramPerMeterCubed,KilogramPerMeterCubed,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Length,Length,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#GramPerGram,GramPerGram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Microliter,Microliter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Kiloliter,Kiloliter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#PrefixedUnit,PrefixedUnit,,"A prefixed unit consists of a base unit and a prefix integer value that serves as a multiplier. For example, a centimeter is a prefixed unit that combines a meter base unit and the prefix multiplier 0.01 such that one centimeter is equivalent to 0.01 meters.
+",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#Unit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#PartPerThousand,PartPerThousand,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Hectopascal,Hectopascal,,Unit of pressures often used in meteorology. One hectopascal is equivalent to one millibar,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CharacteristicQualifier,Characteristic Qualifier,,"A characteristic qualifier is a derived property of an entity that must be combined with concrete characteristics to be used in a measurement. A qualifier is either a base (atomic) or composite qualifier. As an example, the base qualifier minimum can be combined with a characteristic length to create a minimum length qualified characteristic. A composite qualifer is used to combine multiple qualifiers.",http://www.w3.org/2002/07/owl#Thing
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#RadionucleotideActivity,RadionucleotideActivity,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NanogramToKilogram,NanogramToKilogram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MegameterToMeter,MegameterToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Millimeter,Millimeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Kilogram,Kilogram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#FathomToMeter,FathomToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#MassSpecificCount,MassSpecificCount,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#WattPerMeterSquared,WattPerMeterSquared,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#SpectralIrradiance,SpectralIrradiance,,"Irradiance, radiant emittance, and radiant exitance are radiometry terms for the power per unit area of electromagnetic radiation  at a surface. ""Irradiance"" is used when the electromagnetic radiation is incident on the surface. ""Radiant exitance"" or ""radiant emittance"" is used when the radiation is emerging from the surface. The SI units for all of these quantities are watts per square meter (W/m2) (wikipedia).  All of these quantities characterize the total amount of radiation present, at all frequencies. It is also common to consider each frequency in the spectrum separately. When this is done for radiation incident on a surface, it is called spectral irradiance, and has SI units W/m3, or commonly W·m−2·nm−1.",http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Irradiance
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MillimolePerLiter,MillimolePerLiter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Millihertz,Millihertz,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NanometerToMeter,NanometerToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Decigram,Decigram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#LiterToMeterCubed,LiterToMeterCubed,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#FootGoldCoast,FootGoldCoast,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Power,Power,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Micrometer,Micrometer,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#CentisecondToSecond,CentisecondToSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Speed,Speed,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#PintToLiter,PintToLiter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Mile,Mile,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Pascal,Pascal,,"The pascal (symbol: Pa) is the SI derived unit of pressure. It is a measure of force per unit area, and defined as one newton per sqare meter.
+1 Pa = N m-2",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MillimeterSquared,MillimeterSquared,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Minute,Minute,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#PoundToKilogram,PoundToKilogram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NominalHourToSecond,NominalHourToSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Hectometer,Hectometer,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#KilometerToMeter,KilometerToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#FootGoldCoastToMeter,FootGoldCoastToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#Entity,Entity,,"An entity is an object (e.g., a tree, a community, an ecological process). Entities constitute the foci of observations, i.e., every observation is of exactly one entity.",http://www.w3.org/2002/07/owl#Thing
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#MagneticFieldStrength,MagneticFieldStrength,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#AcreToSquareMeter,AcreToSquareMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MicromolePerLiter,MicromolePerLiter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MicromolePerKilogram,MicromolePerKilogram,,"Unit of concentration often used for gasses (e.g., oxygen, or O2) because it is related to solubility measurements.",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#ReciprocalMeter,ReciprocalMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Ton,Ton,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Microgram,Microgram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MicronToMeter,MicronToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NominalWeekToSecond,NominalWeekToSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#IdentifyingCharacteristic,Identifying Characteristic,,"An identifying characteristic is used to identify or name an entity either globally or within a context, such as a name of a lake or a tag number assigned to a tree. Unlike a MeasuredCharacteristic, an IdentifyingCharacteristic is assigned and not measured.",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#Characteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion,Unit Conversion,,A unit conversion is a mapping from a source unit to a target unit via a multiplier and an offset value.,http://www.w3.org/2002/07/owl#Thing
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit,Composite Unit,,"A composite unit is the product of at least two base or derived units. For example, 'meter per second square' denotes a composite unit defined over 'meter' (a base unit) and 'per second square' (a derived unit).",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#Unit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#DekagramToKilogram,DekagramToKilogram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Liter,Liter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#WaveNumber,WaveNumber,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NominalHour,NominalHour,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Mass,Mass,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MicrogramPerMeterCubed,MicrogramPerMeterCubed,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Lumen,Lumen,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#FootToMeter,FootToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NominalYearToSecond,NominalYearToSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#KilogramPerLiter,KilogramPerLiter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MegagramToKilogram,MegagramToKilogram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#Measurement,Measurement,,"A measurement is an assertion that a characteristic of an entity had a particular value with respect to an observation event.  A measurement is comprised of a characteristic, a value, a measurement standard, and a protocol. Measurements can also have precision as well as a description of the methods used. Measurements can encapsulate characteristics that were recorded, but not necessarily measured in a physical sense.  For example, the name of a location and a taxon can be captured through measurements.",http://www.w3.org/2002/07/owl#Thing
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Time,Time,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Kilohertz,Kilohertz,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NanosecondToSecond,NanosecondToSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#MassPerMass,MassPerMass,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MilligramPerMeterSquaredPerDay,MilligramPerMeterSquaredPerDay,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Centisecond,Centisecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Ampere,Ampere,,The ampere is the SI unit of electric current and is one of the seven SI base units.,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MeterPerSecond,MeterPerSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Amount,Amount,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#CentigramToKilogram,CentigramToKilogram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Grad,Grad,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NominalYear,NominalYear,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MicrogramPerGram,MicrogramPerGram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Irradiance,Irradiance,,"Irradiance, radiant emittance, and radiant exitance are radiometry terms for the power per unit area of electromagnetic radiation  at a surface. ""Irradiance"" is used when the electromagnetic radiation is incident on the surface. ""Radiant exitance"" or ""radiant emittance"" is used when the radiation is emerging from the surface. The SI units for all of these quantities are watts per square meter (W/m2) (wikipedia).  All of these quantities characterize the total amount of radiation present, at all frequencies. It is also common to consider each frequency in the spectrum separately. When this is done for radiation incident on a surface, it is called spectral irradiance, and has SI units W/m3, or commonly W·m−2·nm−1.",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Kilometer,Kilometer,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#DegreToRadian,DegreToRadian,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#DekameterToMeter,DekameterToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#GramPerMeterCubed,GramPerMeterCubed,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#KilogramPerMeterSquaredPerDay,KilogramPerMeterSquaredPerDay,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Day,Day,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Meter,Meter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#ArealMassDensityRate,ArealMassDensityRate,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MillimolePerMeterCubed,MillimolePerMeterCubed,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Kilosecond,Kilosecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Tonne,Tonne,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Hour,Hour,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#LinkClarkeToMeter,LinkClarkeToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#ObservationCollection,Observation Collection,,An observation collection is a container for a set of observations.,http://www.w3.org/2002/07/owl#Thing
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#DecisecondToSecond,DecisecondToSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#AmountOfSubstanceWeight,AmountOfSubstanceWeight,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#MagneticFluxDensity,MagneticFluxDensity,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Decisecond,Decisecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#TagNumber,TagNumber,,provides an alphanumeric string of characters to refer to an entity. A TagNumber is typically used to uniquely identify an entity such as a sample or an individual specimen such as a tree or a rock sample.,http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Identifier
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Decimeter,Decimeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Frequency,Frequency,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#LiterPerSecond,LiterPerSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#LifeStage,Life Stage,,The developmental stage of life of a given organism.,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MegasecondToSecond,MegasecondToSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#BarToKilopascal,BarToKilopascal,,"The bar (symbol: bar) is a unit of pressure equal to 100 kilopascals, and roughly equal to the atmospheric pressure on Earth at sea level.",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Megameter,Megameter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#GramPerLiter,GramPerLiter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MillisiemensPerMeter,MillisiemensPerMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Gallon,Gallon,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#GradToRadian,GradToRadian,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#LinkClarke,LinkClarke,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Name,Name,,"provides a character phrase to refer to an entity. A Name is typically used to reference an entity. For example, the Name for a particular instance of a lake might be 'Lake Tahoe'.",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#IdentifyingCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Hectare,Hectare,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#MassSpecificLength,MassSpecificLength,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MillibarToBar,MillibarToBar,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#YardToMeter,YardToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Transmissivity,Transmissivity,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#AcreToMeterSquared,AcreToMeterSquared,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Hectogram,Hectogram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Current,Current,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Nanogram,Nanogram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Conductance,Conductance,,measures how easily electricity flows along a certain path through an electrical element. The SI derived unit for electrical conductance is the siemens,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#HourToSecond,HourToSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Percent,Percent,,Ratio of two quantities as percent composition (1:100).,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#CurrentDensity,CurrentDensity,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Hertz,Hertz,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Yard,Yard,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasurementType,Measurement Type,,"A MeasurementType describes the type of a Measurement in which the Measurement would follow the associated Protocol to record the value of the associated Characteristic of the associated Entity using the associated Standard.  Any of these associated properties may be omitted, in which case the MeasurementType is only constrained by the provided associations. A MeasurementType is a hypothetical construct, in that it is not associated with a particular instance of a Measurement.",http://www.w3.org/2002/07/owl#Thing
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MicroeinsteinsPerMeterSquaredPerSecond,MicroeinsteinsPerMeterSquaredPerSecond,,"An einstein is a unit used in irradiance and in photochemistry. One einstein is defined as one mole of photons, regardless of their frequency. Therefore, the number of photons in an einstein is Avogadro's number, 6.022×1023.
+
+Quantum flux of Photosynthetically active radiation (PAR) is usually reported in microeinsteins per second per square meter, one microeinstein being one-millionth of an einstein.
+
+Irradiance might be measured in einsteins per square metre per second, if the source is monochromatic. (note: If the optical frequency is not well defined this is a sloppy misuse of the term irradiance, which is defined in terms of power per unit area, and p.
+
+
+The einstein is used in studies of photosynthesis since the light requirement for the production of a given quantity of oxygen is a fixed number of photosynthetically active photons (about nine photosynthetically active einsteins per mole of oxygen formed).
+
+It is named in honor of Albert Einstein, who in a 1905 paper explained the photoelectric effect in terms of light quanta, now called photons, an idea introduced by Max Planck.",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#InchToMeter,InchToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Molality,Molality,,Molality amount of substance of solute B in a solution divided by the mass of the solvent: Often favored because measurements of mass are more precise than measurements of volume.,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#MassFlux,MassFlux,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Kilopascal,Kilopascal,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MillimeterToMeter,MillimeterToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#HectosecondToSecond,HectosecondToSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Capacitance,Capacitance,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Volt,Volt,,"The volt is defined as the value of the voltage across a conductor when a current of one ampere dissipates one watt of power in the conductor.[2] It can be written in terms of SI base units as: m2 · kg · s−3 · A−1. It is also equal to one joule of energy per coulomb of charge, J/C.",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MilligramPerLiter,MilligramPerLiter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Are,Are,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Hectosecond,Hectosecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Temperature,Temperature,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Millibar,Millibar,,A millibar is a unit pressure commonly used in meterology. 1 mbar = 0.001 bar = 0.1 kPa = 1 hPa (hectopascal),http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#SiemensPerMeter,SiemensPerMeter,,"Conductivity is the reciprocal (inverse) of electrical resistivity, ρ, and has the SI units of siemens per metre (S·m-1). ""siemens"" is used for both singular and plural.",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#KilogramPerMeterSquared,KilogramPerMeterSquared,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NauticalMileToMeter,NauticalMileToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MileSquared,MileSquared,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredValue,Measurement Value,,"A measurement value is a quantitative or qualitative result of a measurement. Measurement values can contain a coded representation of the result, e.g., as a number or string.",http://www.w3.org/2002/07/owl#Thing
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Energy,Energy,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Pressure,Pressure,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Centigram,Centigram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MolePerMeterCubed,MolePerMeterCubed,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Centimeter,Centimeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Dekagram,Dekagram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NominalMinuteToSecond,NominalMinuteToSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MicromolePerMeterCubed,MicromolePerMeterCubed,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#ArealDensity,ArealDensity,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#Unit,Unit,,"A unit is a standard quantification for physical measurements. A unit is either a base unit, a composite unit, or a derived unit.",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#Standard
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Angle,Angle,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Celsius,Celsius,,The degree Celsius is a unit of thermodynamic temperature with the same magnitude as the unit kelvin but where absolute zero (0 Kelvin) is defined as -273.15 degrees Celsius.,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#VolumePerVolume,VolumePerVolume,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#CentimeterPerSecond,CentimeterPerSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#GramToKilogram,GramToKilogram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Quart,Quart,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#KilometerSquared,KilometerSquared,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MicrosiemensPerMeter,MicrosiemensPerMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MicrometerToMeter,MicrometerToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#DecibarToBar,DecibarToBar,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#TonToKilogram,TonToKilogram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Proportion,Proportion,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Megagram,Megagram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MicrogramPerLiter,MicrogramPerLiter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NanogramPerLiter,NanogramPerLiter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#DekasecondToSecond,DekasecondToSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Count,Count,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#Observation,Observation,," An observation is an assertion that an entity (e.g., biological organisms, geographic locations, or environmental features, among others) was observed by an observer. An observation primarily serves to group a set of measurements together into a single ""observation event"". Observations are often made within a broader context. The context of an observation is given by other observations, implying that an observed entity (and specifically each corresponding measurement) contextualizes another observed entity (and its corresponding measurements). For example, an observation associated with a location may serve as context for an observation associated with an organism. In this case, the observed characteristic values of the location (such as humidity) are assumed constant for the corresponding measurements of the organism.",http://www.w3.org/2002/07/owl#Thing
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MeterCubed,MeterCubed,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#FahrenheitDegreeToKelvin,FahrenheitDegreeToKelvin,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Dekasecond,Dekasecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Bushel,Bushel,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#HectopascalToPascal,HectopascalToPascal,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MillisecondToSecond,MillisecondToSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Millisecond,Millisecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#GallonToLiter,GallonToLiter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Resistivity,Resistivity,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#Inductance,Inductance,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Bar,Bar,,"The bar (symbol: bar) is a unit of pressure equal to 100 kilopascals, and roughly equal to the atmospheric pressure on Earth at sea level. 
+
+It is not an SI or cgs units, but accepted for use with the SI. The bar is widely used in descriptions of pressure because it is only about 1% smaller than ""standard"" atmospheric pressure, and is legally recognized in countries of the European Union.
+
+Common derivatives are millibar (meteorology) and decibar (oceanography)",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#NanomolePerLiter,NanomolePerLiter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#VolumetricArea,VolumetricArea,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Knot,Knot,,"A knot is one nautical mile per hour, which is equal to exactly 1.852 km/h and approximately 1.151 mph.",http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#CompositeUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Inch,Inch,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MilligramToKilogram,MilligramToKilogram,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-characteristics.owl#DoseEquivalent,DoseEquivalent,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#MeasuredCharacteristic
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Acre,Acre,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#DerivedUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#MicrosecondToSecond,MicrosecondToSecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit,Base Unit,,A base unit is a unit that is not naturally decomposed into other units.,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#Unit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Nanosecond,Nanosecond,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#YardIndianToMeter,YardIndianToMeter,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#UnitConversion
+http://ecoinformatics.org/oboe/oboe.1.2/oboe-standards.owl#Nanometer,Nanometer,,,http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#BaseUnit
+http://www.w3.org/2002/07/owl#Thing,owl:Thing,,,

@@ -1,0 +1,21 @@
+Question_ID,Questions,Option1 ,Option2,Option3,Option4,Option5,isOpenended
+1B,Find the term 'bodily process'.  Does it fall under the parent term 'immunization' ? ,Yes,No,N/A,N/A,N/A,false
+2B,What is the parent for the term 'coronaviral process to host' ?,pathological bodily process,bodily process,process,N/A,N/A,false
+3B,What is the parent for the term 'COVID-19 disease process' ?,pathological bodily process,bodily process,process,N/A,N/A,false
+4B,What is the parent for the term 'diagnostic process' ?,pathological bodily process,bodily process,process,N/A,N/A,false
+5B,What is the child term for 'pathological bodily process'? ,disorder treatment,bodily process,cellular process,severe COVID-19 disease process,cell motility,false
+6B,What is the grandparent for the term 'acute infectious disease course'?,coronaviral process to host,disease course,host-MERS-CoV interaction,infectious disease course,reproduction,false
+7B,What is the parent for the term 'acute infectious disease course' ?,metabolic process,disease course,host-MERS-CoV interaction,infectious disease course,process,false
+8B,"Do the following terms share a common parent? (A) 'COVID-19 diagnostic process by chest imaging'  (B) 'COVID-19 diagnostic process based on symptoms'",Yes,No,N/A,N/A,N/A,false
+9B,How many number of parents does the node: 'coronaviral disease epidemic' have?,1,2,4,6,8,false
+10B,Which one is the root node (topmost node)  for 'coronaviral disease epidemic' ?,cell motility,occurrent,transmission process,owl:Thing,N/A,false
+11B,Is 'COVID-19 diagnostic process by ELISA serological assay' a leaf? ,Yes,No,N/A,N/A,N/A,false
+12B,Find the term 'coronavirus transmission'.  Does it fall under the parent term 'transmission process' ? ,Yes,No,N/A,N/A,N/A,false
+13B,What is the grandparent for the term 'coronavirus transmission'?,coronavirus survival in host cell,biological_process,process,modulation of host response to viral infection,occurrent,false
+14B,What is the child term for 'host-coronavirus molecular interaction'?,host response to coronavirus infection,biological regulation,behavior,entity,host molecular response to coronavirus,false
+15B,Which one is the root node (topmost node)  for 'process profile'?,owl:Thing,coronavirus entry to cell',entity,disease course,N/A,false
+16B,How many stages are present immediately under the term 'modulation of host response to coronaviral infection'?,1,2,3,4,5,false
+17B,What is the parent term for 'horizontal pathogen transmission process',process profile,coronavirus transmission,transmission process,occurrent,active immunization,false
+18B,Do the following terms share a common parent? (A) 'horizontal pathogen transmission process'(B) 'transmission process',Yes,No,N/A,N/A,N/A,false
+19B,What is the grandparent for the term 'acute infectious disease course'?,SARS diagnostic process,disorder treatment,chronic infectious disease course,immune response,disease course,false
+20B,Is ''chronic infectious disease course' a leaf?  (A leaf is a node which has no child),Yes,No,N/A,N/A,N/A,false

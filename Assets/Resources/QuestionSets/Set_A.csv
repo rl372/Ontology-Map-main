@@ -1,0 +1,11 @@
+Question_ID,Questions,Option1 ,Option2,Option3,Option4,Option5,Answers
+1A, Find the term 'coronaviral process to host'. Does it fall under the parent term 'bodily process' ?,Yes,No,N/A,N/A,N/A,Yes
+2A, What is the parent for the term 'SARS diagnostic process' ?,process,cell motility,coronavirus disease diagnostic process,N/A,N/A,coronavirus disease diagnostic process
+3A, What is the parent for the term 'disease course' ?,process,cell motility,coronavirus disease diagnostic process,N/A,N/A,process
+4A, What is the parent for the term 'cell migration' ?,process,cell motility,coronavirus disease diagnostic process,N/A,N/A,cell motility
+5A, What is the child term for 'transmission process'?,immune response,coronavirus shedding,horizontal pathogen transmission process,self-replication,occurrent,horizontal pathogen transmission process
+6A, What is the grandparent for the term 'vaccine immunization'?,process profile,life cycle stage,immunization,immunization against infectious agent,process,immunization
+7A, Is 'COVID-19 diagnostic process using real time RT-PCR' a leaf?  (A leaf is a node which has no child),Yes,No,N/A,N/A,N/A,Yes
+8A, What is the child term for 'host-SARS-CoV-2 interaction'?,MERS diagnostic process,host response to SARS-CoV-2,self-replication,host-MERS-CoV interaction,transmission process,host response to SARS-CoV-2
+9A, Which one is the root node (topmost node)  for 'viral life cycle stage' ?,cell motility,owl:Thing,transmission process,occurrent,N/A,owl:Thing
+10A, Do the following terms share a common parent? (A) 'COVID-19 disease process' (B) 'severe COVID-19 disease process',Yes,No,N/A,N/A,N/A,Yes
